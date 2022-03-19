@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const aiko = {
+const lisa = {
   Adjective: "Active",
   code: [Javascript, HTML, CSS, Python, Java, CC+, Nodejs,...],
   tools: [Docker, Backend, terminal Linux, SEToolkit, Mestaploit frameword],
@@ -25,7 +25,7 @@ const aiko = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :3</em>
 
 ---
 
@@ -33,9 +33,10 @@ const aiko = {
 
 ---
 ## Vietnamese
-
-- 👋 Hè lô, Mình là Lisa :3
-- 👀 Mình thích sự dễ thương và ngọt ngào
+<h2> Welcome to my page <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></h2>
+<img align='right' src="https://media4.giphy.com/media/jpbnoe3UIa8TU8LM13/200w.webp?cid=ecf05e47ndzpnlmgalae2aegqhnxnnpo63t9m6qj7ttnwbjo&rid=200w.webp&ct=g" width="230">
+- 👋 Hè lô, Mình là Lisa :3<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="30">
+- 👀 Mình thích sự dễ thương và ngọt ngào<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30">
 - 🌱 Tui học mọi nghành lập trình :)
 - 💞️ Chưa có ny nha
 - 📫 Có thắc mắc gì thì ib telegram : @lisa_is_me nha
