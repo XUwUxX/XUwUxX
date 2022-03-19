@@ -35,11 +35,7 @@ const lisa = {
 ## Vietnamese
 <h2> Welcome to my page <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></h2>
 <img align='right' src="https://media4.giphy.com/media/jpbnoe3UIa8TU8LM13/200w.webp?cid=ecf05e47ndzpnlmgalae2aegqhnxnnpo63t9m6qj7ttnwbjo&rid=200w.webp&ct=g" width="230">
-- 👋 Hè lô, Mình là Lisa :3<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="30">
-- 👀 Mình thích sự dễ thương và ngọt ngào<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30">
-- 🌱 Tui học mọi nghành lập trình :)
-- 💞️ Chưa có ny nha
-- 📫 Có thắc mắc gì thì ib telegram : @lisa_is_me nha
+- 👋 Hè lô, Mình là Lisa :3<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="30"></br>- 👀 Mình thích sự dễ thương và ngọt ngào<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30"></br>- 🌱 Tui học mọi nghành lập trình :)<img src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif" width="30"></br>- 💞️ Chưa có ny nha<img src="https://media.giphy.com/media/GyJ8p0Um850ic/giphy.gif" width="30"></br>- 📫 Có thắc mắc gì thì ib telegram : @lisa_is_me nha<img src="https://media.giphy.com/media/eQZPrashbH9vy/giphy.gif" width="30"></em></p>
 
 
 
